@@ -1,0 +1,14 @@
+There are so many important componenet which we use in java architecture like JDK,JRE,JVM,these all are connected with each other.
+These all have to perform different different task.Java architecture is based on these important component.
+First,we have to write the source code after the completion of the code java compiler compiles the  source code into byte code.
+Then java virtual machine interprets this bytecode  and generates machine code which is executed by System in which java program runs.
+There are so many components which is essential in java architecture like Class Loader,Byte Code verifier,Just In Time Compiler.
+
+Class Loader-Class loader loads all the class files required to execute the program.
+
+Byte Code Verifier-The bytecode verifier verifies the byte code.
+
+Just In Time Compiler-It is use for the execution,JIT makes the execution faster.
+
+
+ 
